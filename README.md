@@ -98,7 +98,7 @@ It is a rich platform with support for both Web and Mobile platforms.
 ![](imgs/context.png)
 
 ### 2. Containers
-
+![](imgs/container-view.png)
 ### 3. Components
 
 ### 4. Physical Architecture
