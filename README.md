@@ -1,2 +1,2 @@
-# laerdal-techies
-Repository for submitting solutions to OReilly Architecture Katas Challenge
+# Road Warrior Architecture
+**By Laerdal Techies**
