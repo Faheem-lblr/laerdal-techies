@@ -89,9 +89,7 @@ It is a rich platform with support for both Web and Mobile platforms.
 ![](imgs/screen_3_dashboiard.png)
 
 ## 5. User Journeys
-### 1. Email Polling
-### 2. Travel Alerts & Notifications
-### 3. On Trip Assistance
+![](RoadWarriors_CustomerJourney.drawio (1).png)
 
 ## 6. Architecture
 ### 1. Context
