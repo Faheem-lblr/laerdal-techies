@@ -84,6 +84,9 @@ It is a rich platform with support for both Web and Mobile platforms.
 
 
 ## 4. Web/Mobile UX
+![](imgs/screen_1_login.png)
+![](imgs/screen_2_email_synch.png)
+![](imgs/screen_3_dashboiard.png)
 
 ## 5. User Journeys
 ### 1. Email Polling
