@@ -89,7 +89,7 @@ It is a rich platform with support for both Web and Mobile platforms.
 ![](imgs/screen_3_dashboiard.png)
 
 ## 5. User Journeys
-![](RoadWarriors_CustomerJourney.drawio (1).png)
+![](imgs/CustomerJourney.png)
 
 ## 6. Architecture
 ### 1. Context
