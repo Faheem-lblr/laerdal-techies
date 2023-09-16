@@ -102,5 +102,23 @@ It is a rich platform with support for both Web and Mobile platforms.
 ### 3. Components
 
 ### 4. Physical Architecture
+![](imgs/physical-architecture.png)
 
 ## 7. ADRs
+#### ADR 1.Microservice Architecture
+* Status: proposed 
+* Context: The architecture which is being used should be scalable and fault tolerant and also should support scalability.
+* Decision: The architecture that can be adopted is microservices. Since it is easier to deploy, highly scalable, improved data security and it has outsourcing flexibility.
+* Consequences: Since microservice architecture contains independent services, the boundary for each service should be defined. 
+
+#### ADR 2. Email Polling
+* Status: Proposed
+* Context: Applications had to connect to mail servers and poll for emails to arrive in a mailbox and then process the messages inline and perform actions on the message. 
+* Decision: We use an OCR with cloud services which will help in polling the emails from the mail server and scan through the data to get trip information which can be viewed on the UI.
+* Consequences: We need to evaluate the OCR with cloud services as the workflow should not be resulting in missing messages.
+
+#### ADR 3. Third party Integrations
+* Status: Proposed
+* Context: Applications need to integrate with other external systems like GDS and other travel agencies in order to manage trip information.
+* Decision: Since we have multiple external systems which needs to be integrated in order to capture the trip information, we are using queues which will subscribe to the events that are being published from the external system.
+* Consequences: Since we are using a message queue for capturing the information from an external system, we should be implementing the retry mechanism.
