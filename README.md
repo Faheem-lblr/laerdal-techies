@@ -81,7 +81,10 @@ It is a rich platform with support for both Web and Mobile platforms.
 * S2: The system must store at least 15 million user accounts.
 
 ## 3. MVP Goals
-
+* User must be able to see his upcoming trips
+* User can cancel his reservations
+* User must be able to see alerts and other notifications from different agents.
+* User must be able to configure different email ids for synching.
 
 ## 4. Web/Mobile UX
 ![](imgs/screen_1_login.png)
