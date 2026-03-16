@@ -21,7 +21,7 @@
 7. ADRs
 ````
 ## 1. Introduction
-Road Warrior is a next-generation one-stop solution for on-the-go travellers trip management. No more juggling around with different emails, apps, external agencies etc.. 
+Road Warrior is a next-generation one-stop solution for on-the-go traveller's trip management. No more juggling around with different emails, apps, external agencies etc.. 
 Road Warrior presents a timely and holistic dashboard of all the traveller's reservations, trips and other relevant information that assist users in planning, organizing and managing their trips.
 The user experience in Road Warrior effectively makes their trip a pleasurable experience. 
 It is a rich platform with support for both Web and Mobile platforms.
